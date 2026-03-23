@@ -37,4 +37,4 @@ python guessing_game.py
 
 ## Author
 **Niyanta Parihar**
-BTech 1st Year | Your College South Asian University
+BTech 1st Year | South Asian University
